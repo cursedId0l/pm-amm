@@ -64,3 +64,10 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+
+
+
+- realize i need more knowledge on prediction markets
+

@@ -28,6 +28,7 @@ A Uniswap v4 hook that implements Paradigm's **pm-AMM** (prediction market AMM) 
 ## Current Status (as of 2026-03-20)
 - [x] forge init uniswap-v4-pm-amm
 - [x] Repo created on GitHub
+- [ ] read article: intro,  
 - [ ] Add v4 dependencies (v4-core, v4-periphery)
 - [ ] Write README
 - [ ] Stub hook contract with NatSpec
@@ -50,3 +51,6 @@ A Uniswap v4 hook that implements Paradigm's **pm-AMM** (prediction market AMM) 
 - How do we represent the probability state p ∈ (0,1) in the contract?
 - How do we handle the Black-Scholes price function in Solidity without a math library?
 - What's the minimal viable first version?
+
+- realize i need more knowledge on prediction markets
+
