@@ -70,4 +70,5 @@ $ cast --help
 
 
 - realize i need more knowledge on prediction markets
-
+- research polymarket
+- undestand why regular AMMs dont work for predition marketsc
